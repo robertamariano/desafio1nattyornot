@@ -20,16 +20,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A IA no dia-a-dia
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Mostrar como a IA já está presente no nosso cotidiano
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT, LeonardoIA
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Auxílio do ChatGPT para textos. Imagens através da LeonardoIA
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
