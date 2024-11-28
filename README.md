@@ -14,7 +14,7 @@ Auxílio do ChatGPT para textos. Imagens através da META AI
 
 ## 🚀 Resultados
 E-book com dicas e informações simples.
-
+Link: Natty or not.pdf
 
 ## 💭 Reflexão (Opcional)
 Criar um trabalho completo com IA pode ser muito mais complexo do que aparenta, para quem busca fazer algo sério e profissional. A revisão humana é indispensável, ao menos até o momento.
